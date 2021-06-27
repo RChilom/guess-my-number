@@ -8,3 +8,6 @@ A small application written in JavaScript, HTML and CSS that represents a number
 Here is what a correct guess looks like:
 
 ![correct_guess](https://user-images.githubusercontent.com/56479733/121368235-95e90400-c943-11eb-8995-5bb073dc75cc.png)
+
+Credits to Jonas Schmedtmann for assets and knowledge. This application is part of his JavaScript course, which can be found on Udemy:
+https://www.udemy.com/course/the-complete-javascript-course/
